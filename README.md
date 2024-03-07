@@ -67,8 +67,7 @@
   </a>
 
  <a href="https://sqlmap.org/" target="_blank" rel="noreferrer">
-    <img src="(https://github.com/ShTuran/ShTuran/assets/111232034/61307e6d-847b-4bbb-a1ca-f2537f1b4056)
-" width="40" height="40"/>
+    <img src="https://repository-images.githubusercontent.com/646067896/c00973dd-5cb3-4011-8d28-a11d36354fe4" width="40" height="40"/>
   </a>
 
 </p>
