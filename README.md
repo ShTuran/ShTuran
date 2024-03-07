@@ -67,8 +67,7 @@
   </a>
 
  <a href="https://sqlmap.org/" target="_blank" rel="noreferrer">
-    <img src="![Untitled](https://github.com/ShTuran/ShTuran/assets/111232034/5fbc9f9f-b35e-4e2f-9dfa-913f4541ecf1)
-" width="40" height="40"/>
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.cyberpunk.rs%2Fwp-content%2Fuploads%2F2018%2F08%2Fsqlmap_bg2.jpg&tbnid=cpemqmgEi8c2_M&vet=12ahUKEwjZ3vDhmuKEAxXJ3wIHHWggAscQMygOegUIARCNAQ..i&imgrefurl=https%3A%2F%2Fwww.cyberpunk.rs%2Fautomatic-sql-injection-and-db-takeover-tool-sqlmap&docid=eeVOvzqILsYiFM&w=800&h=440&q=sqlmap&client=firefox-b-d&ved=2ahUKEwjZ3vDhmuKEAxXJ3wIHHWggAscQMygOegUIARCNAQ" width="40" height="40"/>
   </a>
 
 </p>
