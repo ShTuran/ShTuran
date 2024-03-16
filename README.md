@@ -70,4 +70,9 @@
     <img src="https://repository-images.githubusercontent.com/646067896/c00973dd-5cb3-4011-8d28-a11d36354fe4" width="40" height="40"/>
   </a>
 
+ <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40" height="40"/>
+  </a>
+
+
 </p>
