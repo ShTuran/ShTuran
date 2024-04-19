@@ -18,6 +18,8 @@
 
 - 🚀 Working on Bandit series from OvertheWire
 
+- ✅ I am pushing my notes there. (If you see green a lot, it means I updated my notes)
+
 <h3 align="left">Connect with me: </h3>
 
 <p align="left">
