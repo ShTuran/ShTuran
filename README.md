@@ -73,5 +73,8 @@
     <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40" height="40"/>
   </a>
 
+ <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+    <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_400x400.png" width="40" height="40"/>
+  </a>
 
 </p>
