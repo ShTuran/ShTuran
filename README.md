@@ -18,7 +18,7 @@
 
 - 🚀 Working on Bandit series from OvertheWire
 
-- ✅ I am pushing my notes there. (If you see green a lot, probably, it means I updated my notes)
+- ✅ I am pushing my notes here. (If you see green a lot, probably, it means I updated my 'pr' notes)
 
 <h3 align="left">Connect with me: </h3>
 
