@@ -27,15 +27,6 @@
 </p>
 
 
-
-<h3 align="left">My TryHackMe account: </h3>
-
-<p align="ledt">
-  <a href="https://tryhackme.com/p/t0r4n" target="_blank">
-    <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/t0r4n.png" alt="TryHackMe" alt="TryHackMe" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
