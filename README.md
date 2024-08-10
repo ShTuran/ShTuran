@@ -11,13 +11,10 @@
 <img src="https://images.squarespace-cdn.com/content/v1/537b5dd7e4b0f5318f93e88f/1513714437142-DSAXRULBYX3KBPKQGZBH/morpheusredblue.jpg" alt="Morpheus Red Blue" width="500" align="right">
 
 
-
-- 🌱 I’m currently learning **various things (related to cybersecurity)**
-
 - 📫 How to reach me **turanshirinov@proton.me**
 
-- 🚀 Working on Penetration Tester Job Role Path from HackTheBox Academy
-
+- 🚀 I'm currently working on the ***Penetration Tester Job Role Path from HackTheBox Academy*** and ***also working on some projects.***
+- 
 - ✅ I am pushing my notes here. (If you see green a lot, probably, it means I updated my 'pr' notes)
 
 <h3 align="left">Connect with me: </h3>
