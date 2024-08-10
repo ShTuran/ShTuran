@@ -14,7 +14,7 @@
 - 📫 How to reach me **turanshirinov@proton.me**
 
 - 🚀 I'm currently working on the ***Penetration Tester Job Role Path from HackTheBox Academy*** and ***also working on some projects.***
-- 
+  
 - ✅ I am pushing my notes here. (If you see green a lot, probably, it means I updated my 'pr' notes)
 
 <h3 align="left">Connect with me: </h3>
