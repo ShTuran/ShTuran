@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **turanshirinov@proton.me**
 
-- 🚀 Working on Bandit series from OvertheWire
+- 🚀 Working on Penetration Tester Job Role Path from HackTheBox Academy
 
 - ✅ I am pushing my notes here. (If you see green a lot, probably, it means I updated my 'pr' notes)
 
