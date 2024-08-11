@@ -52,12 +52,17 @@
     <img src="https://repository-images.githubusercontent.com/646067896/c00973dd-5cb3-4011-8d28-a11d36354fe4" width="40" height="40"/>
   </a>
 
+
  <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer">
     <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40" height="40"/>
   </a>
 
  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_400x400.png" width="40" height="40"/>
+  </a>
+
+<a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
+    <img src="https://images.squarespace-cdn.com/content/v1/5b6d93494eddecacd175e239/1574087871944-A4ON7R1F17VR7VQP4GWA/Tenable+Nessus+banner.png?format=1500w" width="40" height="40"/>
   </a>
 
 </p>
