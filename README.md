@@ -2,17 +2,14 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwycDlsZTI1MHhmN28zbmwxeW04czA5dzF1bGxtNjBoM3F1dnFmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JSvY4RKofpXD9z0ydC/giphy.gif" alt="MasterHead">
 </p>
 
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Turan
+<a href="https://www.linkedin.com/in/shirinovturan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+As a full-time student, I am deeply committed to continuous learning, with a strong focus on cybersecurity-related topics. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Penetration Tester.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
